@@ -1,6 +1,7 @@
 # complete-data-analytics
 
 Findings: 
+
 ● Approximately 10% of customers have churned 
 
 ● Consumption data is highly skewed and must be treated before modelling
